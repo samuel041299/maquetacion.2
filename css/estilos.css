@@ -1,0 +1,31 @@
+
+.cabecera
+{
+	background-color: #529ABB;
+	text-align: center;
+	color: white;
+}
+
+#fondoblanco
+{
+	background-color: white;
+	text-align: center;
+}
+
+.tipoletra
+{
+	font: "Arial";
+	
+}
+
+.centrar
+{
+	text-align: center;
+}
+
+.boton
+{
+	color: white;
+	background-color: #529ABB;
+}
+
